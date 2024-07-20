@@ -1,5 +1,8 @@
 Real-Time Sign Language Translation System
+
+
 Overview
+
 This project is an innovative real-time sign language translation system leveraging state-of-the-art machine learning and computer vision techniques. The system can translate sign language gestures into text and perform real-time grammar correction, making it highly useful for enhancing communication accessibility.
 
 Features
@@ -23,7 +26,7 @@ Clone the repository:
 
 bash
 نسخ الكود
-git clone https://github.com/yourusername/sign-language-translation.git
+git clone https://github.com/mennaahmedhosany/Real-Time-Sign-Language-Translation-System.git
 cd sign-language-translation
 Create a virtual environment:
 
